@@ -4,7 +4,6 @@ Firefox for iOS [![codebeat badge](https://codebeat.co/badges/67e58b6d-bc89-4f22
 Download on the [App Store](https://itunes.apple.com/app/firefox-web-browser/id989804926).
 
 
-
 This branch (main)
 -----------
 
